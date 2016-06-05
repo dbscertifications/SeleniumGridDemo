@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestTestNGExcelConnection" parallel="tests" thread-count="2">
+
+       <!--<test name="Test on Node instance 1 with Chrome">-->
+          <!--<parameter name="browser" value="Chrome"/>-->
+           <!--<parameter name="url" value="http://google.com"/>-->
+          <!--<classes>-->
+              <!--<class name="com.test.grid.GridClass"/>-->
+          <!--</classes>-->
+      <!--</test>-->
+
+    <!--<test name="Test on Node instance 2 with Chrome">-->
+          <!--<parameter name="browser" value="Chrome"/>-->
+        <!--<parameter name="url" value="http://yahoo.com"/>-->
+          <!--<classes>-->
+              <!--<class name="com.test.grid.GridClass"/>-->
+          <!--</classes>-->
+     <!--</test>-->
+
+    <!--<test name="Test on Node instance 3 with Chrome">-->
+        <!--<parameter name="browser" value="Chrome"/>-->
+        <!--<parameter name="url" value="http://yahoo.com"/>-->
+        <!--<classes>-->
+            <!--<class name="com.test.grid.GridClass"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <test name="Test on Node instance 1 with Chrome">
+        <classes>
+            <class name="com.test.grid.encryption.Tests"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComPracTests/ComPracTests.iml" filepath="$PROJECT_DIR$/ComPracTests/ComPracTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumGridDemo.iml" filepath="$PROJECT_DIR$/SeleniumGridDemo.iml" />
+    </modules>
+  </component>
+</project>
