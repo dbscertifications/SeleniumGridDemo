@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestTestNGGroups">
+    <suite-files>
+        <suite-file path="./testngGroups.xml" />
+    </suite-files>
+</suite>
